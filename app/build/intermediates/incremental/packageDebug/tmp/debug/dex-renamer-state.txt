@@ -1,0 +1,4 @@
+#Fri May 10 11:12:02 EDT 2019
+base.0=C\:\\UB\\Sem2\\CSE586 - DS\\assignment4\\SimpleDynamo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
